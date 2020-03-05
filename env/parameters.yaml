@@ -1,0 +1,10 @@
+adminUser:
+  password: local:jxrocks/adminUser:password
+  username: admin
+enableDocker: false
+pipelineUser:
+  email: jcarter@stainlesscode.com
+  token: local:jxrocks/pipelineUser:token
+  username: JoshuaCWebDeveloper
+prow:
+  hmacToken: local:jxrocks/prow:hmacToken
