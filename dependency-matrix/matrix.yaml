@@ -5,3 +5,9 @@ dependencies:
   url: https://github.com/JoshuaCWebDeveloper/scalex-jenkinsx-rollout-app.git
   version: ""
   versionURL: ""
+- host: github.com
+  owner: JoshuaCWebDeveloper
+  repo: skiapp
+  url: https://github.com/JoshuaCWebDeveloper/skiapp.git
+  version: ""
+  versionURL: ""
