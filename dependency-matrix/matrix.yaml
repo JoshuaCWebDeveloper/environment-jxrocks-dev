@@ -1,0 +1,7 @@
+dependencies:
+- host: github.com
+  owner: JoshuaCWebDeveloper
+  repo: scalex-jenkinsx-rollout-app
+  url: https://github.com/JoshuaCWebDeveloper/scalex-jenkinsx-rollout-app.git
+  version: ""
+  versionURL: ""

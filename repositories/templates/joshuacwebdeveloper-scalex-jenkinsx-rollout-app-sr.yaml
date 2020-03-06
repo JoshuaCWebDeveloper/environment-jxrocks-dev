@@ -1,0 +1,21 @@
+apiVersion: jenkins.io/v1
+kind: SourceRepository
+metadata:
+  creationTimestamp: null
+  labels:
+    owner: JoshuaCWebDeveloper
+    provider: github
+    repository: scalex-jenkinsx-rollout-app
+  name: joshuacwebdeveloper-scalex-jenkinsx-rollout-app
+spec:
+  description: Imported application for JoshuaCWebDeveloper/scalex-jenkinsx-rollout-app
+  httpCloneURL: https://github.com/JoshuaCWebDeveloper/scalex-jenkinsx-rollout-app.git
+  org: JoshuaCWebDeveloper
+  provider: https://github.com
+  providerKind: github
+  providerName: github
+  repo: scalex-jenkinsx-rollout-app
+  scheduler:
+    kind: ""
+    name: ""
+  url: https://github.com/JoshuaCWebDeveloper/scalex-jenkinsx-rollout-app.git
